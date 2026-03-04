@@ -1,0 +1,7 @@
+{
+  "name": "Niti-Setu: Voice-Based Agricultural Scheme Eligibility Engine",
+  "description": "An AI-powered application that allows farmers to check their eligibility for various government agricultural schemes using voice commands in Hindi or English. It provides clear eligibility status, evidence from official documents, and a list of required paperwork.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
